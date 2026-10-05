@@ -1,0 +1,6 @@
+{
+  "name": "PrintFit - Print Ready A4 & F4",
+  "description": "Ubah ukuran gambar, PDF, dan dokumen ke kertas A4 atau F4/Folio tanpa merusak rasio, siap cetak untuk Epson L3110 dan printer inkjet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
